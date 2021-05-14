@@ -1,4 +1,4 @@
-# freefirehack
+# FreeFire Hack
 1000 diamonds per Day
 # How to install (Copy the script below and paste in to termux)
 pkg install git  
